@@ -4,7 +4,7 @@ This web app is an online bill generation system developed using Spring boot fra
 ## Table of Contents
 1. [Screenshots](#screenshots)
 
-<a href="screenshots" />
+<a href="screenshots"></a>
 ## Screenshots
 ### Cart screenshot
 ![mainPage](./images/cart.png)
